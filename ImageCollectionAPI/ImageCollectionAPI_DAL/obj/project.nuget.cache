@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZsI3qA92YYTR7dfRGZSFH5ajcOBQ2CIFo95sbvshlWaik07zarSm+vG/72wBK5Ukc5nr6/c4f9nA6B5L9LMJaw==",
+  "dgSpecHash": "TTY84sJbonY8nzyGgDyUFU51Xne77DNRMPCzFgSnMbLj8bDBYK2QY0RJtkmIWELExwOO8cQxnRRrxb4Et5eOIQ==",
   "success": true,
-  "projectFilePath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj",
+  "projectFilePath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Educacion\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Educacion\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

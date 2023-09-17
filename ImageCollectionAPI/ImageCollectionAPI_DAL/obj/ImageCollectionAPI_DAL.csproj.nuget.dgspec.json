@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj": {}
+    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj": {}
   },
   "projects": {
-    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj": {
+    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj",
+        "projectUniqueName": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj",
         "projectName": "ImageCollectionAPI_DAL",
-        "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj",
+        "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj",
         "packagesPath": "C:\\Users\\Educacion\\.nuget\\packages\\",
-        "outputPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\obj\\",
+        "outputPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Educacion\\AppData\\Roaming\\NuGet\\NuGet.Config",

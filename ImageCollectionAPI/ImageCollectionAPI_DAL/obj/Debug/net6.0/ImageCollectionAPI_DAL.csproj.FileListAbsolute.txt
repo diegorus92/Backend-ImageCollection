@@ -12,3 +12,17 @@ C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Ima
 C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ImageCollectionAPI_DAL.pdb
 C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ImageCollectionAPI_DAL.genruntimeconfig.cache
 C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ref\ImageCollectionAPI_DAL.dll
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\bin\Debug\net6.0\ImageCollectionAPI_DAL.deps.json
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\bin\Debug\net6.0\ImageCollectionAPI_DAL.runtimeconfig.json
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\bin\Debug\net6.0\ImageCollectionAPI_DAL.dll
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\bin\Debug\net6.0\ImageCollectionAPI_DAL.pdb
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ImageCollectionAPI_DAL.csproj.AssemblyReference.cache
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ImageCollectionAPI_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ImageCollectionAPI_DAL.AssemblyInfoInputs.cache
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ImageCollectionAPI_DAL.AssemblyInfo.cs
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ImageCollectionAPI_DAL.csproj.CoreCompileInputs.cache
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ImageCollectionAPI_DAL.dll
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\refint\ImageCollectionAPI_DAL.dll
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ImageCollectionAPI_DAL.pdb
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ImageCollectionAPI_DAL.genruntimeconfig.cache
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\ImageCollection\Backend\Backend-ImageCollection\ImageCollectionAPI\ImageCollectionAPI_DAL\obj\Debug\net6.0\ref\ImageCollectionAPI_DAL.dll

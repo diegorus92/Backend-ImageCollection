@@ -62,17 +62,6 @@ namespace ImageCollectionAPI_BL.Services
             }
         }
 
-        /*public bool DeleteImage(long id)
-        {
-            Image? toDelete = _imageRepository.GetImage(id);
-            if (toDelete != null)
-            {
-
-                _imageRepository.DeleteImage(toDelete);
-                return true;
-            }
-            return false;
-        }*/
 
         public bool DeleteImage(long id)
         {

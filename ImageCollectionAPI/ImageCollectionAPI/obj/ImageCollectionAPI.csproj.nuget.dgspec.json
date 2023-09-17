@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI\\ImageCollectionAPI.csproj": {}
+    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI\\ImageCollectionAPI.csproj": {}
   },
   "projects": {
-    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI\\ImageCollectionAPI.csproj": {
+    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI\\ImageCollectionAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI\\ImageCollectionAPI.csproj",
+        "projectUniqueName": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI\\ImageCollectionAPI.csproj",
         "projectName": "ImageCollectionAPI",
-        "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI\\ImageCollectionAPI.csproj",
+        "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI\\ImageCollectionAPI.csproj",
         "packagesPath": "C:\\Users\\Educacion\\.nuget\\packages\\",
-        "outputPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI\\obj\\",
+        "outputPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Educacion\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj": {
-                "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj"
+              "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj": {
+                "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj"
               },
-              "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj": {
-                "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj"
+              "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj": {
+                "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj": {
+    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj",
+        "projectUniqueName": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj",
         "projectName": "ImageCollectionAPI_BL",
-        "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj",
+        "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj",
         "packagesPath": "C:\\Users\\Educacion\\.nuget\\packages\\",
-        "outputPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_BL\\obj\\",
+        "outputPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Educacion\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,8 +106,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj": {
-                "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj"
+              "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj": {
+                "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj": {
+    "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj",
+        "projectUniqueName": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj",
         "projectName": "ImageCollectionAPI_DAL",
-        "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj",
+        "projectPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\ImageCollectionAPI_DAL.csproj",
         "packagesPath": "C:\\Users\\Educacion\\.nuget\\packages\\",
-        "outputPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\obj\\",
+        "outputPath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Educacion\\AppData\\Roaming\\NuGet\\NuGet.Config",

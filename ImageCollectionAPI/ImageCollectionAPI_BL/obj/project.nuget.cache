@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uvK7kyu9hojYIXDoMSxSYoL+m7LVOHrf28l51WNlPqKOOViKhU/jiwCkdbAhsGGIycaIWtNndESX8/aawzdPYQ==",
+  "dgSpecHash": "wK5IU5wU7iMATPJddxEf8VzTUNKIlubLItcTa4zAYmKblhpYIoKjkd+UUgI/lEZJr40mUJwCgipyWKsnt/WI7g==",
   "success": true,
-  "projectFilePath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj",
+  "projectFilePath": "C:\\Diego\\proyectos\\Programación\\Proyectos FULLSTACK\\ImageCollection\\Backend\\Backend-ImageCollection\\ImageCollectionAPI\\ImageCollectionAPI_BL\\ImageCollectionAPI_BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Educacion\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Educacion\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
